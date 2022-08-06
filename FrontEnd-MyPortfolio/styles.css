@@ -35,8 +35,9 @@ body {
   --clr-bg: #23283e;
   --clr-bg-alt: #2a2f4c;
   --clr-fg: #bdbddd;
-  --clr-fg-alt: #cdcdff;
+  --clr-fg-alt: #444;
   --clr-primary: #90a0d9;
+  --clr-button-hover: 
   --shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px,
     rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
 }
@@ -52,10 +53,7 @@ body {
   color: var(--clr-bg);
 }
 
-h1,
-h2,
-h3,
-h4 {
+h1,h2,h3,h4 {
   line-height: 1.2;
   color: var(--clr-fg-alt);
 }
@@ -161,9 +159,9 @@ button {
   right: 100%;
   bottom: 0;
   left: 0;
-  top: 0;
+  top: 1rem;
   z-index: -1;
-  /* transition: right 0.2s ease-in-out; */
+  transition: right 0.2s ease-in-out; 
 }
 
 .btn--outline:hover::before,
@@ -227,7 +225,7 @@ main {
 }
 
 .nav__list {
-  margin-right: 1.5em;
+  margin-right: 0.5em;
   display: flex;
 }
 
@@ -329,7 +327,9 @@ main {
 
 
 .contact {
+  display: flex;
   flex-direction: column;
+  gap: 2rem;
 }
 
 
