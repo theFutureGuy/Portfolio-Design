@@ -1,6 +1,6 @@
 # Basic-Portfolio-frontEnd
  ### A Basic html portfolio with amazing stylings and single page type done for course `FrontEnd Development` in My University.
-Its my single page website
+## Contains
   1) About  
   2) Project
   3) Skills 
