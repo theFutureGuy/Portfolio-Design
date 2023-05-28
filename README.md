@@ -10,5 +10,5 @@ Its my single page website
 
 
 Code is deployed in github: 
-https://github.com/theFutureGuy/Basic-Portfolio-frontEnd.git
+<!-- https://github.com/theFutureGuy/Basic-Portfolio-frontEnd.git -->
 
