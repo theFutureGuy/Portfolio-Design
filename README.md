@@ -1,4 +1,4 @@
-# Basic-Portfolio-frontEnd
+# Basic-Portfolio webpage
  ### A Basic html portfolio with amazing stylings and single page type done for course `FrontEnd Development` in My University.
 #### Contains
   1) About  
@@ -9,5 +9,5 @@
 ### It uses amazing styles and simple javascripts for animations.
 ### Check this out!
 link:  
-<!-- https://github.com/theFutureGuy/Basic-Portfolio-frontEnd.git -->
+<!-- https://github.com/theFutureGuy/Portfolio-Design -->
 
