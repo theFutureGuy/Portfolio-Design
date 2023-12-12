@@ -8,6 +8,5 @@
   
 ### It uses amazing styles and simple javascripts for animations.
 ### Check this out!
-link:  
-<!-- https://github.com/theFutureGuy/Portfolio-Design -->
+[click here](https://github.com/theFutureGuy/Portfolio-Design)
 
